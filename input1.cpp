@@ -13,6 +13,8 @@ int main()
 	
 	
 	cout << n << " " << dong_start << "" << cot_start << "" << dong_end << "," << cot_end << ")";
+
+	// change line 17
 	
 	FileIn.close();
 	system("pause");
